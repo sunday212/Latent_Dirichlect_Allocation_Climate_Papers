@@ -1,0 +1,2 @@
+# Latent_Dirichlect_Allocation_Climate_Papers
+Classifications of Abstracts from Climate Change Research Papers
