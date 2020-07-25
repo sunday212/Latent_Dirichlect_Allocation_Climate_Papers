@@ -1,2 +1,15 @@
 # Latent_Dirichlect_Allocation_Climate_Papers
-Classifications of Abstracts from Climate Change Research Papers
+
+Title: Document Topic Classification of Climate Change Research Papers
+
+Models: Latent Dirichlect Allocation Topic Modelling
+
+Author: Lisa Mok
+
+Project Details:  Using Latent Dirichlect Allocation to find dominant topics for each Climate Change research paper from text extracted from the abstract.
+
+Dataset: engrxiv-papers.csv
+
+Scripts: lda.py
+
+Acknowledgements to contributors of dataset: Devin R. Berg Kyle Niemeyer Kevin Mattheus Moerman
