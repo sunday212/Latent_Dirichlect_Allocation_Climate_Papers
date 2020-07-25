@@ -1,6 +1,6 @@
 # Latent_Dirichlect_Allocation_Climate_Papers
 
-Title: Document Topic Classification of Renewable Energy Research Papers
+Title: Document Topic Classification of Climate Change Engineering Research Papers
 
 Models: Latent Dirichlect Allocation Topic Modelling
 
