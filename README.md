@@ -1,12 +1,12 @@
 # Latent_Dirichlect_Allocation_Climate_Papers
 
-Title: Document Topic Classification of Climate Change Engineering Research Papers
+Title: Document Topic Classification of Renewable Energy Research Papers
 
 Models: Latent Dirichlect Allocation Topic Modelling
 
 Author: Lisa Mok
 
-Project Details:  Using Latent Dirichlect Allocation to find dominant topics for each climate change engineering research paper from text extracted from the abstract.
+Project Details:  Using Latent Dirichlect Allocation to find dominant topics for each research paper from text extracted from the abstract.
 
 Dataset: engrxiv-papers.csv
 
